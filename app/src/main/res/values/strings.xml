@@ -9,5 +9,7 @@
     <string name="precio">Precio</string>
     <string name="cancelar">Cancelar</string>
     <string name="registrar">Registrar</string>
+    <string name="eliminar">eliminar</string>
+    <string name="comprado">Comprado</string>
 
 </resources>
