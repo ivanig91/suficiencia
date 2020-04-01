@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">suficiencia</string>
+    <string name="error_input">Debes rellenar todos los campos</string>
+    <string name="producto_registrado">Producto registrado</string>
+    <string name="registrar_producto">Registrar producto</string>
+    <string name="ver_lista">Ver Lista</string>
+    <string name="nombre">Nombre</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="precio">Precio</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="registrar">Registrar</string>
+
+</resources>
